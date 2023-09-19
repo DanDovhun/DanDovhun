@@ -1,4 +1,4 @@
-### Hello world, I'm Daniel
+# Hello world, I'm Daniel
 
 I'm a simple programmer trying to find his way in the universe. I'm working on my Bachelor degree in Software Engineering and Management at the University of Gothenburg.
 
